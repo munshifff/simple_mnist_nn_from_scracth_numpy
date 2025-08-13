@@ -1,0 +1,1 @@
+# simple_mnist_nn_from_scracth_numpy
